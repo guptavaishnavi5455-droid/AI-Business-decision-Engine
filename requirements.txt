@@ -1,5 +1,0 @@
-streamit
-pandas 
-plotly
-scikit-learn
-reportlab
